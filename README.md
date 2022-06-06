@@ -1,3 +1,5 @@
+## [![Typing SVG align="center"](https://readme-typing-svg.herokuapp.com?color=6924D7&lines=Hi+there+👋)](https://git.io/typing-svg)
+
 <div align="center">
   <a href="https://github.com/fadiinho"></a>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fadiinho&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
@@ -13,3 +15,6 @@
   <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 </div>
 <br/>
+
+### Learning now:
+- Kotlin
