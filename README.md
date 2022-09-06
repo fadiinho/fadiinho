@@ -17,4 +17,4 @@
 <br/>
 
 ### Learning now:
-- Kotlin
+- Rust
