@@ -1,7 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9745f5&section=header"/>
 
-## [![Typing SVG align="center"](https://readme-typing-svg.herokuapp.com?color=9745f5&lines=Hello)](https://git.io/typing-svg)
-
 <div align="center">
   <a href="https://github.com/fadiinho"></a>
   <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fadiinho&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
